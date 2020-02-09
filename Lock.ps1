@@ -34,5 +34,5 @@ setLockScreenWallpaper $path
 Invoke-Command {rundll32.exe user32.dll,LockWorkStation}
 
 Start-Sleep -s 1
-$path = [System.Environment]::ExpandEnvironmentVariables("C:\Users\razie\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper")
+$path = [System.Environment]::ExpandEnvironmentVariables("%AppData%\Microsoft\Windows\Themes\TranscodedWallpaper")
 setLockScreenWallpaper $path

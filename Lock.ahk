@@ -1,1 +1,2 @@
-#w::Run PowerShell -File D:\source\Lock\Lock.ps1,,Hide
+FileInstall, Lock.ps1, C:\Windows\Temp\Lock.ps1, 1
+#w::Run PowerShell -File C:\Windows\Temp\Lock.ps1,,Hide
