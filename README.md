@@ -48,3 +48,6 @@ Double click the "Do not show lock screen" configuration, and set it to "Enbaled
 Click OK and close the last window.
 
 Enjoy ;)
+
+---
+<a href="https://www.buymeacoffee.com/rdmartins" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
