@@ -27,6 +27,12 @@ I recommend you download the last compiled executable from the [relases](https:/
 
 Then, simply run it as administrator.
 
+## Autorun on login without UAC
+
+The only way I found to run the app on login without having to press Yes everytime on the UAC screen is using a schedule.
+
+You can scredule the app to run with administrator privileges on login, and this way the UAC screen will not show up.
+
 ## Bypassing the lock screen
 
 First, execute gpedit.msc.
